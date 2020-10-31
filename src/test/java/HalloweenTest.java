@@ -2,8 +2,8 @@ public class HalloweenTest {
     public static void main(String[] args) {
 
         System.out.println("Hey");
-        // new codes
-
+// adding stuff from master
+// also adding from magic
 
         // I did not understand
 
