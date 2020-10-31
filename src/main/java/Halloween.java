@@ -4,5 +4,6 @@ public class Halloween {
         System.out.println("hi");
 
         // adding more code
+        // new codes
     }
 }
