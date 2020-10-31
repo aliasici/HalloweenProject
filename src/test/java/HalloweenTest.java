@@ -9,6 +9,7 @@ public class HalloweenTest {
         // I wiil understand
         // Haha
         // line 1
+        // line 2
 
     }
 }
